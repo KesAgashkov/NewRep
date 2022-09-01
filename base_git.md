@@ -13,4 +13,7 @@
     1. git status
 # Внесение изменений однострочным сообщением или через редактор
     1. git commit -m "Your short summary about the commit"
-#
+# Просмотр истории коммитов с изменениями
+    1. git log -p
+# Просмотр заданного коммита
+    1. git show 1af17e
