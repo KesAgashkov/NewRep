@@ -30,5 +30,5 @@
     2.git revert 6 значный индекс коммита
 # Сброс слежки за файлом
     1. git rm --cached название файла с расширением
-
+git commit -am "Tiny title"
     
